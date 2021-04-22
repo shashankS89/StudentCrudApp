@@ -1,0 +1,7 @@
+POST http://localhost:4000/StudentNotes/607c0ddd41cc3b39bcd40bde
+Content-Type: application/json
+
+{
+    "topic":"INTR13",
+    "notes":"SHASHANK13"
+}
